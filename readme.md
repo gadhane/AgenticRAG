@@ -54,7 +54,7 @@ streamlit run app.py
 
 Ask questions like:
 
-* “Explain the Bellman optimality for Q and its intuition.”\
+* “Explain the Bellman optimality for Q and its intuition.”
 * “What is the difference between value iteration and policy iteration?”
 
 The system retrieves from the book, augments with web if needed, and returns a grounded answer with citations.

@@ -1,0 +1,4 @@
+{"q": "Define MDP and list its components."}
+{"q": "Contrast on-policy vs off-policy learning with examples."}
+{"q": "What is eligibility trace and how does it relate to TD(λ)?"}
+{"q": "Derive the policy gradient theorem and explain its assumptions."}

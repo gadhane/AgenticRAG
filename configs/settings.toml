@@ -1,0 +1,21 @@
+[retrieval]
+chunk_size = 1000
+chunk_overlap = 200
+k_pdf = 6
+k_web = 5
+
+
+[thresholds]
+tau_high = 0.55
+tau_low = 0.35
+max_hops = 3
+
+
+[timeouts]
+web_search = 6
+web_read = 10
+
+
+[feedback]
+max_retries = 2
+backoff_base = 0.6

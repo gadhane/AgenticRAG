@@ -181,3 +181,4 @@ cython_debug/
 .cursorindexingignore
 .env.example
 data/rl_book.pdf
+/.idea

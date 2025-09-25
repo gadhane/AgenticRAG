@@ -64,7 +64,7 @@ The system retrieves from the book, augments with web if needed, and returns a g
 ## Tutorial
 
 Read the full step-by-step tutorial here:
-👉 [Medium / Blog Link](https://your-blog-link.com)
+👉 [Medium / Blog Link](https://medium.com/@gereziherw/from-rag-to-agentic-rag-0297e9b86738)
 
 ---
 ## Contributing
